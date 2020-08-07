@@ -1,0 +1,150 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:Century Gothic;
+}
+.main{
+	background-color: black
+	width:100px;
+	height: 60px;
+	line-height: 60px;
+	font-weight: bold;
+	font-size: 18px;
+
+font-family: "Sofia";
+
+
+
+}
+
+body,html{
+	/*background-image:url("https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");*/
+	min-height:900px;
+	line-height: 1.0em;
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+
+
+  
+}
+
+/*.header{
+	height: 100vh;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+}*/
+/*.btn{
+	height: 40px;
+	width: 120px;
+	background: #ECAC2A;
+	border:none;
+	color:#000;
+	border-radius: 25px;*/
+
+}
+.btn:hover{
+	background: #ECAC2A;
+	cursor: pointer;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 15px;
+}
+ul li {
+	display: inline-block;
+}
+ul li a {
+	text-decoration: none;
+	color: #fff;
+	padding:15px;
+	border: 4px solid transparent;
+    transition: 0.6s ease;
+}
+ul li a:hover{
+	cursor: pointer;
+	color:#FF8A65 ;
+}
+ul li.active a {
+	background-color: #fff;
+	color:000;
+}
+.img{
+	background-image:url("https://images.pexels.com/photos/1000445/pexels-photo-1000445.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	min-height:600px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; 
+}.img2{
+	background-image:url("https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	min-height:500px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; 
+}
+.img3{
+	background-image:url("https://images.pexels.com/photos/744667/pexels-photo-744667.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	min-height:500px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; 
+}
+
+.img4{
+	background-image:url("https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	min-height:500px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; 
+}
+
+.img5{
+	background-image:url("https://images.pexels.com/photos/132340/pexels-photo-132340.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	min-height:500px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; 
+}
+.img6{
+	background-image:url("https://images.pexels.com/photos/1038172/pexels-photo-1038172.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	min-height:500px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; 
+}
+
+
+
+
+.section{
+	text-align: justify-all;
+	padding: 50px 80px;
+	text-align-last: left;
+	font-size: 1.2vw;
+	color: #000;
+	font-family: "Sofia";
+
+}
+.section-dark{
+	background-color: #000;
+	color: #fff;
+}
+
+h3{
+	font-family: "Sofia";
+	font-size:30px;
+
+}
